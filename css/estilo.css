@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29-oct-2015, 20:41:09
+    Author     : pablomartincarrion
+*/
+body{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+     background-color: #f3f3f3;
+}
+
+header{
+    text-align: center;
+    
+}
+.registro, .menu {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
+
+.list,.canciones {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+  background: url("../img/fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 600px;
+
+}
+
+.canciones,.list h2{
+    padding-top: 20px;
+}
